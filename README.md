@@ -31,10 +31,10 @@ Este proyecto fue realizado utilizando fuentes de datos abiertos pertenecientes 
 
 A su vez, se utilizo la tecnica de WebScrapping para obtener la información contenida en la tabla del siguiente portal de información relacionado con la salud en la ciudad de Nueva York:
 
-https://www.health.ny.gov/statistics/cancer/registry/appendix/neighborhoodpop.htm
+* https://www.health.ny.gov/statistics/cancer/registry/appendix/neighborhoodpop.htm
 
 Por ultimo, se utilizo la API propuesta por la plataforma OpenWeather para obtener información relacionada con el clima: 
 
-https://openweathermap.org/
+* https://openweathermap.org/
 
 Cabe resaltar que este proyecto se realizo con fines puramente academicos, por lo cual, nos reservamos cualquier opinión acerca del uso de la tecnica WebScrapping o cualquier llave para consulta a APIs las cuales pueden estar inhabilitadas al momento de consulta, adicionalmente la información contenida dentro de este repositorio, puede encontrarse desactualizada al momento de consulta.
