@@ -2,7 +2,9 @@
 
 Proyecto realizado para la asignatura Procesamiento de datos a gran escala, de los programas Ciencia de Datos e Ingenieria de Sistemas de la Pontificia Universidad Javeriana
 
-<img src="https://github.com/Raaiinn/project-data-process/assets/73810142/cf77f005-02e3-471f-9bfc-827e3106293a" position="center">
+<p align="center">
+  <img src="https://github.com/Raaiinn/project-data-process/assets/73810142/cf77f005-02e3-471f-9bfc-827e3106293a">
+</p>
 
 Este proyecto fue realizado utilizando fuentes de datos abiertos pertenecientes a la ciudad de Nueva York, los cuales pueden ser encontrados en los siguientes enlaces: 
 
