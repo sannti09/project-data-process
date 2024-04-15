@@ -26,8 +26,8 @@ Bajo la asesoria del Ingeniero PhD. Jhon Jairo Corredor Franco:
 
 Este proyecto fue realizado utilizando fuentes de datos abiertos pertenecientes a la ciudad de Nueva York, los cuales pueden ser encontrados en los siguientes enlaces: 
 
-*https://data.cityofnewyork.us/Public-Safety/NYPD-Arrest-Data-Year-to-Date-/uip8-fykc/about_data
-*https://data.cityofnewyork.us/City-Government/NYCgov-Poverty-Measure-Data-2018-/cts7-vksw/about_data
+* https://data.cityofnewyork.us/Public-Safety/NYPD-Arrest-Data-Year-to-Date-/uip8-fykc/about_data
+* https://data.cityofnewyork.us/City-Government/NYCgov-Poverty-Measure-Data-2018-/cts7-vksw/about_data
 
 A su vez, se utilizo la tecnica de WebScrapping para obtener la información contenida en la tabla del siguiente portal de información relacionado con la salud en la ciudad de Nueva York:
 
