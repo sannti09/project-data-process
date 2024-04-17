@@ -12,11 +12,9 @@ En las instalaciones de la Facultad de Ingenieria de la Pontificia Universidad J
   <img src="https://ingenieria.javeriana.edu.co/documents/1600952/7406192/ed_ing_ganapremio.jpg/6e7dda9d-698e-66eb-0830-3e904877b2c2?version=1.0&t=1669145171180&download=true">
 </p>
 
-Autor: Brayan Steven Carrillo Mora
+Autor: Santiago Rueda
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/73810142?v=4">
-</p>
+
 
 Bajo la asesoria del Ingeniero PhD. Jhon Jairo Corredor Franco: 
 
